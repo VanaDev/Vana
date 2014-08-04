@@ -1,0 +1,53 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+*.pch
+*.idb
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.pdb
+
+# Make
+*.cmake
+*CMakeCache.txt
+*CMakeFiles
+*Makefile
+bin
+lib
+build
+
+# Visual Studio
+*.sdf
+*.opensdf
+*.user
+*.suo
+*.res
+*.ncb
+[d|D]ebug*
+[r|R]elease*
+ipch
+
+# Folders
+logs
+
+# Files
+*.bat
+*.diff
+*.udiff
+*.patch
