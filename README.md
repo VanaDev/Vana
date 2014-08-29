@@ -34,4 +34,4 @@ To my knowledge, we are not violating any other forms of intellectual property l
 In conclusion, it is my understanding that Vana is legal and we are not violating any intellectual property law. If these topics interest you, I recommend reading more over at the [Electronic Frontier Foundation website](https://www.eff.org/issues/coders/reverse-engineering-faq). They have a great deal of comprehensive and useful information related to the subject of reverse engineering.
 
 #### How do I set up the software?
-Please see [the wiki](https://github.com/LazyBui/Vana/wiki) which has all sorts of documentation including information for getting started.
+Please see [the wiki](https://github.com/VanaDev/Vana/wiki) which has all sorts of documentation including information for getting started.
